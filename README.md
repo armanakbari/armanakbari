@@ -2,7 +2,9 @@
 <h3 align="center">I am a third year computer science student at University of Tehran</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanakbari&label=Profile%20views&color=0e75b6&style=flat" alt="armanakbari" /> </p>
+
 Welcome to my GitHub page!
+
 
 I am passionate about the fascinating world of AI and machine learning, and my repository reflects my journey through this exciting field. My primary focus is on computer science and trustworthy machine learning. I believe in not just creating powerful AI systems, but also ensuring they are reliable and robust in the face of challenges.
 
