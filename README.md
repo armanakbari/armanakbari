@@ -6,7 +6,7 @@
 Welcome to my GitHub page!
 
 
-I am passionate about the fascinating world of AI and machine learning, and my repository reflects my journey through this exciting field. My primary focus is on computer science and trustworthy machine learning. I believe in not just creating powerful AI systems, but also ensuring they are reliable and robust in the face of challenges.
+I am passionate about the fascinating world of AI and machine learning, and my repository reflects my journey through this exciting field. My primary focus is on computer vision and trustworthy machine learning. I believe in not just creating powerful AI systems, but also ensuring they are reliable and robust in the face of challenges.
 
 At the heart of my work lies a deep interest in generative models. These models have the incredible ability to create new and meaningful data that can often resemble the input they were trained on. One area that I've explored extensively is diffusion models, particularly DDPM (Denoising Diffusion Probabilistic Model). These models have proven to be versatile tools for various applications, and I've enjoyed experimenting with them to unlock their potential.
 
