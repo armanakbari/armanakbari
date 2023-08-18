@@ -2,9 +2,17 @@
 <h3 align="center">I am a third year computer science student at University of Tehran</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanakbari&label=Profile%20views&color=0e75b6&style=flat" alt="armanakbari" /> </p>
-Most of my codes are related to AI and machine learning. My research interests are mainly computer science and trustworthy machine learning.
+Welcome to my GitHub page!
 
-In more detail, I am fond of generative models and I have worked with diffusion models, particularly DDPM. Lately, I have been reading about certification methods for adversarial machine learning. Certification methods have received more attention since they can provide a security guarantee for robustness against adversarial examples. However, how to efficiently and effectively build a model that achieves high certified robustness remains unclear.
+I am passionate about the fascinating world of AI and machine learning, and my repository reflects my journey through this exciting field. My primary focus is on computer science and trustworthy machine learning. I believe in not just creating powerful AI systems, but also ensuring they are reliable and robust in the face of challenges.
+
+At the heart of my work lies a deep interest in generative models. These models have the incredible ability to create new and meaningful data that can often resemble the input they were trained on. One area that I've explored extensively is diffusion models, particularly DDPM (Denoising Diffusion Probabilistic Model). These models have proven to be versatile tools for various applications, and I've enjoyed experimenting with them to unlock their potential.
+
+Recently, my attention has turned toward the critical issue of adversarial machine learning. In this realm, I've been delving into certification methods that hold the promise of enhancing the security and robustness of machine learning models against adversarial examples. These methods have gained significant traction as they offer a means to provide strong guarantees regarding a model's ability to withstand these malicious inputs. However, the path to constructing a model that achieves high certified robustness remains a complex challenge that demands efficient and effective strategies.
+
+Through my GitHub repositories, I aim to document my exploration, experimentation, and findings in these areas. From code implementations to research insights, I'm excited to share my progress with the community. As I continue to learn and grow, I hope my work contributes to the advancement of AI, and machine learning, and the overarching goal of creating technologies that are not only intelligent but also reliable and secure.
+
+Thank you for visiting my GitHub page, and I look forward to connecting with fellow enthusiasts, researchers, and learners who share my passion for AI, machine learning, and the quest for trustworthy models.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/armanakbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="armanakbari" height="30" width="40" /></a>
